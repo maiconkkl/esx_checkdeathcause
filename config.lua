@@ -1,3 +1,3 @@
 Config                            = {}
---language currently available EN and SV
+--language currently available EN, SV and BR
 Config.Locale                     = 'sv'
